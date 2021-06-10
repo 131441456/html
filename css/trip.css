@@ -1,0 +1,34 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.navbar{
+	width: 100%;
+	height: 90px;
+	background: #ffffff;
+}
+.logo{
+	width: 100px;
+	margin-top: 24px;
+	margin-left: 137px;
+}
+.menu{
+	margin-top: -29px;
+	margin-left: 629px;
+}
+.menu a{
+	margin: 28px;
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+.a{
+	border: 2px solid;
+	width:600px;
+	height: 500px;
+	float: left;
+	margin: 21px;
+	
+
+}
